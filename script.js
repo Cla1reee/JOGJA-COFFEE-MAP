@@ -16,6 +16,30 @@ const coffeeShops = [
     lat: -7.7811,
     lng: 110.4143,
     description: "Cocok untuk kerja dengan WiFi cepat."
+  },
+  {
+    name: "Kopi Klotok",
+    lat: -7.6700,
+    lng: 110.4100,
+    description: "Pemandangan sawah dan suasana tradisional."
+  },
+  {
+    name: "Simetri Coffee",
+    lat: -7.7705,
+    lng: 110.3772,
+    description: "Cafe modern dengan racikan kopi spesial."
+  },
+  {
+    name: "Roaster and Bear",
+    lat: -7.7825,
+    lng: 110.3642,
+    description: "Desain unik dan menu beragam."
+  },
+  {
+    name: "Awor Gallery & Coffee",
+    lat: -7.8018,
+    lng: 110.3640,
+    description: "Cafe sekaligus galeri seni di tengah kota."
   }
 ];
 
